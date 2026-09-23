@@ -55,6 +55,20 @@
 
 ---
 
+### 🚲 北商周邊 YouBike 高需求時段預測 | YouBike Demand Analysis
+
+**Group Project · Data Visualization · Machine Learning**
+
+分析北商周邊 YouBike 高需求時段，
+將團隊完成的資料分析與模型結果整理為視覺化圖表與簡報，
+呈現時段、星期、天氣與高需求之間的變化。
+
+**My Role：資料視覺化 · 資訊整理 · 簡報成果呈現**
+
+👉 [View Project](https://github.com/HsiuFang-Wang/youbike-demand-analysis)
+
+---
+
 ## 🌱 Currently Learning
 
 持續加強：
