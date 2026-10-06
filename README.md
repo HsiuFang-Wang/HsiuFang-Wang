@@ -1,11 +1,9 @@
 # Hi, I'm Hsiu-Fang Wang 👋
 
-### Data Analytics × Process Improvement × Digital Applications
+### Data Analytics × Process Improvement × Quality Management
 
-具電子製造業與旅宿現場管理工作經驗，累積流程整理、問題處理、跨部門協作及人員帶領經驗。
-
-目前持續學習並實作 Power BI、Python、SQL 等資料工具，
-透過公開資料分析與 API 應用專題，練習將實際問題轉化為資料分析與數位應用。
+具電子製造品質檢驗、流程執行與旅宿現場管理經驗，累積問題處理、跨部門協作、人員帶領及SOP建立經驗。
+具備 Power BI、Python、SQL 與 Excel 基礎應用能力，透過公開資料分析與 API 應用專題，實作資料清理、視覺化與應用開發，並將過往工作經驗轉化為可分析、可改善的流程。
 
 ---
 
